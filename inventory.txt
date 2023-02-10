@@ -1,0 +1,6 @@
+UK,SK1234,Nike,50.0,40
+USA,SU1293,Adidas,40.0,25
+Russia,SP2834,Reebok,30.0,60
+China,ST3289,New Balance,60.0,40
+India,SR8293,Castore,80.0,10
+France,SW1923,Alpine,35.0,40
